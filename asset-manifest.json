@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-delpoy-1/static/css/main.073c9b0a.css",
+    "main.js": "/react-delpoy-1/static/js/main.3c1e4f25.js",
+    "static/js/787.d6cb1aba.chunk.js": "/react-delpoy-1/static/js/787.d6cb1aba.chunk.js",
+    "index.html": "/react-delpoy-1/index.html",
+    "main.073c9b0a.css.map": "/react-delpoy-1/static/css/main.073c9b0a.css.map",
+    "main.3c1e4f25.js.map": "/react-delpoy-1/static/js/main.3c1e4f25.js.map",
+    "787.d6cb1aba.chunk.js.map": "/react-delpoy-1/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c1e4f25.js"
+  ]
+}
